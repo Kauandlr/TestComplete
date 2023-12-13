@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="165"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.frmDBETRUFPlaca.DBECodigo"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="143"/>
+					<Prp name="object left" type="I" value="110"/>
+					<Prp name="object right" type="I" value="150"/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722809722"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="remarks" type="S" value="'SC' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.frmDBETRUFPlaca.DBECodigo&#xA;(Sys.Process(&quot;ControlSoft&quot;).VCLObject(&quot;Fm_Transportador&quot;).VCLObject(&quot;pnlVeiculo&quot;).VCLObject(&quot;frmDBETRUFPlaca&quot;).VCLObject(&quot;DBECodigo&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472830903"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 0">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="677"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.Fm_BrowseTransportador.dxLayoutControl1.BtIncluir"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="649"/>
+					<Prp name="object left" type="I" value="857"/>
+					<Prp name="object right" type="I" value="947"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="click point x" type="I" value="902"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722504861"/>
+					<Prp name="click point y" type="I" value="663"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.ControlSoft.Fm_BrowseTransportador.dxLayoutControl1.BtIncluir&#xA;(Sys.Process(&quot;ControlSoft&quot;).VCLObject(&quot;Fm_BrowseTransportador&quot;).VCLObject(&quot;dxLayoutControl1&quot;).VCLObject(&quot;BtIncluir&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472704977"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{A5D43D7B-2174-4323-9C60-8A63B8D8E409}"/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="228"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBLModeloVeiculo"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="206"/>
+					<Prp name="object left" type="I" value="110"/>
+					<Prp name="object right" type="I" value="285"/>
+					<Prp name="image file name" type="S" value="visImage5.png"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="click point x" type="I" value="276"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722838773"/>
+					<Prp name="click point y" type="I" value="218"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="remarks" type="S" value="A click at point (166, 12) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBLModeloVeiculo&#xA;(Sys.Process(&quot;ControlSoft&quot;).VCLObject(&quot;Fm_Transportador&quot;).VCLObject(&quot;pnlVeiculo&quot;).VCLObject(&quot;DBLModeloVeiculo&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472854398"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="37"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.TcxComboBoxPopupWindow.TcxCustomLookupDBGrid"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="1"/>
+					<Prp name="object left" type="I" value="1"/>
+					<Prp name="object right" type="I" value="174"/>
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="click point x" type="I" value="117"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722865625"/>
+					<Prp name="click point y" type="I" value="6"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="remarks" type="S" value="A click at point (116, 5) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.ControlSoft.TcxComboBoxPopupWindow.TcxCustomLookupDBGrid&#xA;(Sys.Process(&quot;ControlSoft&quot;).Window(&quot;TcxComboBoxPopupWindow&quot;, &quot;&quot;, 1).Window(&quot;TcxCustomLookupDBGrid&quot;, &quot;&quot;, 1))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472872454"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="101"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBETRPlaca"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="79"/>
+					<Prp name="object left" type="I" value="110"/>
+					<Prp name="object right" type="I" value="210"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722758333"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBETRPlaca&#xA;(Sys.Process(&quot;ControlSoft&quot;).VCLObject(&quot;Fm_Transportador&quot;).VCLObject(&quot;pnlVeiculo&quot;).VCLObject(&quot;DBETRPlaca&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The text 'MAT0723' was entered in the text editor."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472766667"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="109"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.TcxComboBoxPopupWindow.TcxCustomLookupDBGrid"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="1"/>
+					<Prp name="object left" type="I" value="1"/>
+					<Prp name="object right" type="I" value="174"/>
+					<Prp name="image file name" type="S" value="visImage8.png"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="click point x" type="I" value="143"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722913542"/>
+					<Prp name="click point y" type="I" value="10"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="remarks" type="S" value="A click at point (142, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.ControlSoft.TcxComboBoxPopupWindow.TcxCustomLookupDBGrid&#xA;(Sys.Process(&quot;ControlSoft&quot;).Window(&quot;TcxComboBoxPopupWindow&quot;, &quot;&quot;, 1).Window(&quot;TcxCustomLookupDBGrid&quot;, &quot;&quot;, 1))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472925"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 10">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="31"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.TcxComboBoxPopupWindow.TcxEditListBoxContainer.TcxImageComboBoxListBox"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="1"/>
+					<Prp name="object left" type="I" value="1"/>
+					<Prp name="object right" type="I" value="174"/>
+					<Prp name="image file name" type="S" value="visImage10.png"/>
+					<Prp name="line #" type="I" value="11"/>
+					<Prp name="click point x" type="I" value="126"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6723031829"/>
+					<Prp name="click point y" type="I" value="5"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="11"/>
+			<Prp name="remarks" type="S" value="A click at point (125, 4) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.ControlSoft.TcxComboBoxPopupWindow.TcxEditListBoxContainer.TcxImageComboBoxListBox&#xA;(Sys.Process(&quot;ControlSoft&quot;).Window(&quot;TcxComboBoxPopupWindow&quot;, &quot;&quot;, 1).Window(&quot;TcxEditListBoxContainer&quot;, &quot;&quot;, 1).Window(&quot;TcxImageComboBoxListBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5473037037"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="487"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBCRNTRCTransporte"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="463"/>
+					<Prp name="object left" type="I" value="110"/>
+					<Prp name="object right" type="I" value="285"/>
+					<Prp name="image file name" type="S" value="visImage9.png"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="click point x" type="I" value="277"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722940162"/>
+					<Prp name="click point y" type="I" value="472"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="remarks" type="S" value="A click at point (167, 9) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBCRNTRCTransporte&#xA;(Sys.Process(&quot;ControlSoft&quot;).VCLObject(&quot;Fm_Transportador&quot;).VCLObject(&quot;pnlVeiculo&quot;).VCLObject(&quot;DBCRNTRCTransporte&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472959375"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="133"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBETRCidadePlaca"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="111"/>
+					<Prp name="object left" type="I" value="110"/>
+					<Prp name="object right" type="I" value="400"/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="click point x" type="I" value="197"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722780556"/>
+					<Prp name="click point y" type="I" value="123"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="A click at point (87, 12) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBETRCidadePlaca&#xA;(Sys.Process(&quot;ControlSoft&quot;).VCLObject(&quot;Fm_Transportador&quot;).VCLObject(&quot;pnlVeiculo&quot;).VCLObject(&quot;DBETRCidadePlaca&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472789352"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="260"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBLTipoVeiculo"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="238"/>
+					<Prp name="object left" type="I" value="110"/>
+					<Prp name="object right" type="I" value="285"/>
+					<Prp name="image file name" type="S" value="visImage7.png"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="click point x" type="I" value="279"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722885417"/>
+					<Prp name="click point y" type="I" value="251"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="A click at point (169, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBLTipoVeiculo&#xA;(Sys.Process(&quot;ControlSoft&quot;).VCLObject(&quot;Fm_Transportador&quot;).VCLObject(&quot;pnlVeiculo&quot;).VCLObject(&quot;DBLTipoVeiculo&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472901505"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="133"/>
+					<Prp name="object name" type="S" value="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBETRCidadePlaca"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="111"/>
+					<Prp name="object left" type="I" value="110"/>
+					<Prp name="object right" type="I" value="400"/>
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="datetime" type="D" value="45267.6722794907"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+				</Node>
+			</Node>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBETRCidadePlaca&#xA;(Sys.Process(&quot;ControlSoft&quot;).VCLObject(&quot;Fm_Transportador&quot;).VCLObject(&quot;pnlVeiculo&quot;).VCLObject(&quot;DBETRCidadePlaca&quot;))"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The text 'Chapeco' was entered in the text editor."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45267.5472802315"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

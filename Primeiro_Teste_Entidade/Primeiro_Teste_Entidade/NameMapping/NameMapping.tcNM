@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{767844B1-469D-43CF-97B2-40D1D7C5B105}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="ControlSoft" Key="{1B656EA0-B04A-42CD-98F7-31257BBA81DB}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ControlSoft" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Fm_BrowseClientes" Key="{734D20C6-FA2C-4658-ACCA-28DDEE9CA8FD}">
+								<Image FileName="404790323" Left="0" Top="0" Right="1896" Bottom="938" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFm_BrowseClientes" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Fm_BrowseClientes" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="dxLayoutControl1" Key="{C295AE3B-0741-4AA8-B47C-BCE9DBA70893}">
+										<Image FileName="404790323" Left="8" Top="31" Right="1888" Bottom="930" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TdxLayoutControl" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="dxLayoutControl1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="BtnIncluir" Key="{E96B1DEC-5DFB-47D6-9084-D2E5CC713787}">
+												<Image FileName="404790323" Left="1299" Top="890" Right="1389" Bottom="920" />
+												<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TCSUIButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="BtnIncluir" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Fm_CadastroClientes" Key="{D5DF4176-8EA0-4E84-88C4-C8143B80FD46}">
+								<Image FileName="-309484716" Left="0" Top="0" Right="918" Bottom="649" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFm_CadastroClientes" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Fm_CadastroClientes" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DBLTipoPessoa" Key="{3BA771B4-EA52-42DA-B603-166358A7C43F}">
+										<Image FileName="-309484716" Left="317" Top="75" Right="435" Bottom="97" />
+										<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TDBLookupComboBox" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DBLTipoPessoa" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="CBEspecie" Key="{58DBD71E-52B2-49C3-A845-54275EC91D12}">
+										<Image FileName="1450978449" Left="317" Top="109" Right="500" Bottom="131" />
+										<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TComboCS" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="CBEspecie" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="CBClasse" Key="{EFEBB7F5-F84E-4E6C-B334-F82D80300720}">
+										<Image FileName="1772054949" Left="317" Top="142" Right="500" Bottom="164" />
+										<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TComboCS" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="CBClasse" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="DBENome" Key="{1397565B-82CD-48E0-B7EF-17F9DA6AFDA6}">
+										<Image FileName="-1659738286" Left="317" Top="175" Right="621" Bottom="197" />
+										<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TDBEdit" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DBENome" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="DBEEndereco" Key="{BDEB0477-7D9C-42CC-82EF-FEB9DF3FF0A3}">
+										<Image FileName="1195013142" Left="317" Top="209" Right="621" Bottom="231" />
+										<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TDBEdit" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DBEEndereco" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="DBENumero" Key="{80DE2307-2292-4955-A93A-7B7124BD1088}">
+										<Image FileName="-649757489" Left="317" Top="242" Right="379" Bottom="264" />
+										<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TDBEdit" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DBENumero" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="DBEBairro" Key="{783568B4-C70E-45DB-B254-23A5A6D4FF5A}">
+										<Image FileName="539551780" Left="317" Top="276" Right="556" Bottom="298" />
+										<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TDBEdit" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DBEBairro" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="DBECaixaPostal" Key="{23A4835A-B038-41B4-A1E0-2D70C383E0D2}">
+										<Image FileName="752361301" Left="317" Top="309" Right="379" Bottom="331" />
+										<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TDBEdit" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DBECaixaPostal" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="DBEFone" Key="{18B054FC-E9C0-4E72-80D4-1835BEA2CBAB}">
+										<Image FileName="-1705534748" Left="317" Top="409" Right="469" Bottom="431" />
+										<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TDBEdit" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DBEFone" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="BTGeral" Key="{5230EDDB-EC34-4B9E-B767-C03C7B7F4A4E}">
+										<Image FileName="990906783" Left="11" Top="590" Right="154" Bottom="618" />
+										<TypeInfo Item0="{532CDD87-072B-4249-B06B-8D857182B55D}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TcxButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BTGeral" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="BTCancela" Key="{F89A3C48-8D8D-4838-A0B5-3E0039977960}">
+										<Image FileName="1176622155" Left="802" Top="590" Right="892" Bottom="618" />
+										<TypeInfo Item0="{532CDD87-072B-4249-B06B-8D857182B55D}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TcxButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BTCancela" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="BTConfirma" Key="{3C23486A-93F4-4B7B-AFAB-5335501846E6}">
+										<Image FileName="391493226" Left="710" Top="590" Right="800" Bottom="618" />
+										<TypeInfo Item0="{532CDD87-072B-4249-B06B-8D857182B55D}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TcxButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BTConfirma" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="DBECep" Key="{85956E57-3B33-4058-85CB-F1399442F72D}">
+										<Image FileName="208451022" Left="317" Top="376" Right="400" Bottom="398" />
+										<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TDBEdit" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="DBECep" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="BTBuscaCidade" Key="{1601B2C2-00D1-438E-9055-1BF7A4FF616F}">
+										<Image FileName="1896571029" Left="652" Top="342" Right="673" Bottom="361" />
+										<TypeInfo Item0="{1DE09419-1B3D-49CB-9673-0144C73D68FD}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TSpeedButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BTBuscaCidade" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Bevel7" Key="{0648762A-E68B-476B-8E36-B0CBBF6CC059}">
+										<Image FileName="-1571305887" Left="11" Top="583" Right="892" Bottom="585" />
+										<TypeInfo Item0="{1DE09419-1B3D-49CB-9673-0144C73D68FD}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TBevel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Bevel7" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="TPopupDataList" Key="{07A8CBB2-D459-4B09-86D5-1B84B7EE26B5}">
+								<Image FileName="60783692" Left="0" Top="0" Right="118" Bottom="30" />
+								<TypeInfo Item0="{58199C04-7643-4FE6-85E6-E1A026732DE2}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TPopupDataList" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="Fm_CadastroClientesGeraisF" Key="{C959F126-041E-4157-83DF-E735C4FA594C}">
+								<Image FileName="-1096449564" Left="0" Top="0" Right="1101" Bottom="559" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFm_CadastroClientesGeraisF" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Fm_CadastroClientesGeraisF" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Panel2" Key="{9C90A3EC-1289-4D06-98D3-0E58DBAE7BE3}">
+										<Image FileName="-1096449564" Left="14" Top="37" Right="535" Bottom="487" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Panel2" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="DBENascimento" Key="{DDF56EE5-630F-4B0A-AC22-4C3C6DE76AB9}">
+												<Image FileName="-1096449564" Left="153" Top="96" Right="239" Bottom="117" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBDateEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBENascimento" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomDropDownInnerEdit" Key="{E7CDFEA4-D0F8-477E-BED7-724933AC0CDD}">
+														<Image FileName="-1096449564" Left="156" Top="99" Right="222" Bottom="112" />
+														<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomDropDownInnerEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="DBECPF" Key="{B66BF99E-5D68-49EF-AE8C-4E964108F417}">
+												<Image FileName="990322043" Left="153" Top="127" Right="304" Bottom="148" />
+												<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBECPF" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBECCE" Key="{133BDA1C-25DC-491D-89E3-C98652917797}">
+												<Image FileName="356427285" Left="153" Top="189" Right="304" Bottom="210" />
+												<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBECCE" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBERG" Key="{F55346F3-92DC-47EE-BDB7-7CC70794FDA1}">
+												<Image FileName="-299337265" Left="153" Top="251" Right="304" Bottom="272" />
+												<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBERG" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBEOrgaoExpeditor" Key="{422658F3-00DE-4EF7-8407-55CC26248BC4}">
+												<Image FileName="-2001674025" Left="153" Top="316" Right="304" Bottom="337" />
+												<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBEOrgaoExpeditor" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBEDataEmissao" Key="{A73F76A3-5FDC-438C-8B06-AFA965772FB7}">
+												<Image FileName="-248209020" Left="153" Top="284" Right="239" Bottom="305" />
+												<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBDateEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBEDataEmissao" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomDropDownInnerEdit" Key="{A525A588-6231-4726-9003-D3F36AB8A296}">
+														<Image FileName="-2094538745" Left="156" Top="287" Right="222" Bottom="300" />
+														<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomDropDownInnerEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="edtCND" Key="{4DF08BB4-7889-44D5-BBD7-5C51D64505B2}">
+												<Image FileName="1596523418" Left="153" Top="347" Right="304" Bottom="368" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBTextEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="edtCND" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomInnerTextEdit" Key="{95624807-5177-4535-AD2B-DDE15A2BD4B6}">
+														<Image FileName="1596523418" Left="156" Top="350" Right="302" Bottom="363" />
+														<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomInnerTextEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="edtAutCND" Key="{2E17A9BF-31DE-4DF7-862C-426ADA1FC24E}">
+												<Image FileName="776813427" Left="153" Top="378" Right="304" Bottom="399" />
+												<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBTextEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="edtAutCND" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomInnerTextEdit" Key="{A2B30792-E138-4081-84B7-24DEA5254D3B}">
+														<Image FileName="1417165489" Left="156" Top="381" Right="302" Bottom="394" />
+														<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomInnerTextEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="edtValidade" Key="{94A4B623-36CD-4DEF-B19B-3B1854E477CA}">
+												<Image FileName="1328051326" Left="153" Top="408" Right="239" Bottom="429" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBDateEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="edtValidade" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomDropDownInnerEdit" Key="{2A4001EC-E33A-4308-AD11-C89E2361701F}">
+														<Image FileName="1328051326" Left="156" Top="411" Right="222" Bottom="424" />
+														<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomDropDownInnerEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="DBEIdentificacaoEstrangeiro" Key="{51D0F8F4-2A60-49E8-82FC-F5682FCF156C}">
+												<Image FileName="1826012236" Left="153" Top="220" Right="303" Bottom="241" />
+												<TypeInfo Item0="{C31D48C7-7838-42A8-8411-E68A035D5DBC}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBEIdentificacaoEstrangeiro" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="Panel1" Key="{BE0AD688-6F5E-473B-8700-949AF42860C9}">
+										<Image FileName="345946022" Left="554" Top="37" Right="1083" Bottom="487" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Panel1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="DBECelular" Key="{CA9AB059-3D14-4763-BEFD-C6ACD4EA955F}">
+												<Image FileName="345946022" Left="695" Top="104" Right="845" Bottom="125" />
+												<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBECelular" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBEEmail" Key="{00854D32-E118-492F-8D7D-F4D0CB3F48DB}">
+												<Image FileName="1366649601" Left="695" Top="135" Right="1045" Bottom="156" />
+												<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBEEmail" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBENaturalidade" Key="{F1323254-B7DE-4304-9A12-18BA19CF2A19}">
+												<Image FileName="-945135645" Left="695" Top="166" Right="845" Bottom="187" />
+												<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBENaturalidade" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBLGrauEscolaridade" Key="{B2574B0E-2B96-4D18-B5FE-6F0F73B1EF6F}">
+												<Image FileName="825750542" Left="695" Top="228" Right="1045" Bottom="249" />
+												<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBLookupComboBox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBLGrauEscolaridade" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBLProfissao" Key="{BA003ABD-3158-4919-B931-4C69A681F53B}">
+												<Image FileName="-2025310375" Left="695" Top="259" Right="1045" Bottom="280" />
+												<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBLookupComboBox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBLProfissao" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBERNTRC" Key="{524E7B92-A544-4764-B6EB-1161B672DCDA}">
+												<Image FileName="-609529154" Left="695" Top="292" Right="845" Bottom="313" />
+												<TypeInfo Item0="{85554135-3FC7-4BBB-A228-8FD341FF35F5}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBERNTRC" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="BTConfirmar" Key="{06E835B0-A7A8-4BB8-8D96-2F3EFC7FC3C8}">
+										<Image FileName="1847168447" Left="897" Top="519" Right="987" Bottom="547" />
+										<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TCSUIButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BTConfirmar" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="TPopupDataList2" Key="{DE083259-9F40-45DC-8FA0-EDBECC5BA54A}">
+								<Image FileName="-1919734506" Left="0" Top="0" Right="350" Bottom="93" />
+								<TypeInfo Item0="{58199C04-7643-4FE6-85E6-E1A026732DE2}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TPopupDataList" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="TcxDateEditPopupWindow" Key="{A4D0DC28-BB6A-418A-9082-822182E3573C}">
+								<Image FileName="-2065003986" Left="0" Top="0" Right="190" Bottom="197" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TcxDateEditPopupWindow" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="TcxPopupCalendar" Key="{09D28951-6E16-42C8-BFF5-E061500D0CE2}">
+										<Image FileName="-2065003986" Left="1" Top="1" Right="189" Bottom="196" />
+										<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="TcxPopupCalendar" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="TcxDateEditPopupWindow2" Key="{D8197DC7-BEBA-4860-90DA-1DC149E9F49E}">
+								<Image FileName="-763379871" Left="0" Top="0" Right="190" Bottom="197" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TcxDateEditPopupWindow" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="TcxPopupCalendar" Key="{A2B30E92-3CE0-405B-84DA-AF6727B05A30}">
+										<Image FileName="-763379871" Left="1" Top="1" Right="189" Bottom="196" />
+										<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="TcxPopupCalendar" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Fm_MensagemAviso" Key="{D7DA952B-F5FB-4A3D-AA74-DCFB01CBF305}">
+								<Image FileName="-924366359" Left="0" Top="0" Right="438" Bottom="229" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFm_MensagemAviso" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Fm_MensagemAviso" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="PNFundo" Key="{FC3E96B4-5AD8-478C-9190-D321C9FBE704}">
+										<Image FileName="-924366359" Left="3" Top="30" Right="435" Bottom="226" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="PNFundo" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Panel1" Key="{F363F907-3299-42C8-A511-B87D0F9823D6}">
+												<Image FileName="-924366359" Left="3" Top="185" Right="435" Bottom="226" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TPanel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Panel1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="BTOk" Key="{AE22C44A-5AA1-476B-A9AA-00FDDEEDFD41}">
+														<Image FileName="-924366359" Left="166" Top="191" Right="271" Bottom="219" />
+														<TypeInfo Item0="{532CDD87-072B-4249-B06B-8D857182B55D}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TcxButton" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="BTOk" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Fm_Dependencia" Key="{19FA802D-86B8-44DA-9512-C2E1CFE074A7}">
+								<Image FileName="-2050266180" Left="0" Top="0" Right="620" Bottom="371" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFm_Dependencia" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Fm_Dependencia" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="PNFundo" Key="{5E494D65-462E-4121-887A-6447063A5BB3}">
+										<Image FileName="-2050266180" Left="3" Top="24" Right="617" Bottom="368" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="PNFundo" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="BTOk" Key="{8E6D3C4A-2CC1-4E5C-B49A-6E0B65F03292}">
+												<Image FileName="-2050266180" Left="259" Top="334" Right="364" Bottom="362" />
+												<TypeInfo Item0="{532CDD87-072B-4249-B06B-8D857182B55D}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="BTOk" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{E426FE3E-BA04-49B0-A3E5-BFFE22BDD563}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{A4D6EA18-9A87-4BAE-8E40-8E75B74757DD}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DesktopWindowXamlSource" Key="{2097C1C9-46E6-46DA-9847-33DA87876978}">
+										<TypeInfo Item0="{B296A156-5C6A-426B-A9DF-475364EAE639}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="DesktopWindowXamlSource" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="ControlSoft" Owner="{1B656EA0-B04A-42CD-98F7-31257BBA81DB}">
+			<Child Name="Fm_BrowseClientes" Owner="{734D20C6-FA2C-4658-ACCA-28DDEE9CA8FD}">
+				<Child Name="dxLayoutControl1" Owner="{C295AE3B-0741-4AA8-B47C-BCE9DBA70893}">
+					<Child Name="BtnIncluir" Owner="{E96B1DEC-5DFB-47D6-9084-D2E5CC713787}" />
+				</Child>
+			</Child>
+			<Child Name="Fm_CadastroClientes" Owner="{D5DF4176-8EA0-4E84-88C4-C8143B80FD46}">
+				<Child Name="DBLTipoPessoa" Owner="{3BA771B4-EA52-42DA-B603-166358A7C43F}" />
+				<Child Name="CBEspecie" Owner="{58DBD71E-52B2-49C3-A845-54275EC91D12}" />
+				<Child Name="CBClasse" Owner="{EFEBB7F5-F84E-4E6C-B334-F82D80300720}" />
+				<Child Name="DBENome" Owner="{1397565B-82CD-48E0-B7EF-17F9DA6AFDA6}" />
+				<Child Name="DBEEndereco" Owner="{BDEB0477-7D9C-42CC-82EF-FEB9DF3FF0A3}" />
+				<Child Name="DBENumero" Owner="{80DE2307-2292-4955-A93A-7B7124BD1088}" />
+				<Child Name="DBEBairro" Owner="{783568B4-C70E-45DB-B254-23A5A6D4FF5A}" />
+				<Child Name="DBECaixaPostal" Owner="{23A4835A-B038-41B4-A1E0-2D70C383E0D2}" />
+				<Child Name="DBEFone" Owner="{18B054FC-E9C0-4E72-80D4-1835BEA2CBAB}" />
+				<Child Name="BTGeral" Owner="{5230EDDB-EC34-4B9E-B767-C03C7B7F4A4E}" />
+				<Child Name="BTCancela" Owner="{F89A3C48-8D8D-4838-A0B5-3E0039977960}" />
+				<Child Name="BTConfirma" Owner="{3C23486A-93F4-4B7B-AFAB-5335501846E6}" />
+				<Child Name="DBECep" Owner="{85956E57-3B33-4058-85CB-F1399442F72D}" />
+				<Child Name="BTBuscaCidade" Owner="{1601B2C2-00D1-438E-9055-1BF7A4FF616F}" />
+				<Child Name="Bevel7" Owner="{0648762A-E68B-476B-8E36-B0CBBF6CC059}" />
+			</Child>
+			<Child Name="TPopupDataList" Owner="{07A8CBB2-D459-4B09-86D5-1B84B7EE26B5}" />
+			<Child Name="Fm_CadastroClientesGeraisF" Owner="{C959F126-041E-4157-83DF-E735C4FA594C}">
+				<Child Name="Panel2" Owner="{9C90A3EC-1289-4D06-98D3-0E58DBAE7BE3}">
+					<Child Name="DBENascimento" Owner="{DDF56EE5-630F-4B0A-AC22-4C3C6DE76AB9}">
+						<Child Name="TcxCustomDropDownInnerEdit" Owner="{E7CDFEA4-D0F8-477E-BED7-724933AC0CDD}" />
+					</Child>
+					<Child Name="DBECPF" Owner="{B66BF99E-5D68-49EF-AE8C-4E964108F417}" />
+					<Child Name="DBECCE" Owner="{133BDA1C-25DC-491D-89E3-C98652917797}" />
+					<Child Name="DBERG" Owner="{F55346F3-92DC-47EE-BDB7-7CC70794FDA1}" />
+					<Child Name="DBEOrgaoExpeditor" Owner="{422658F3-00DE-4EF7-8407-55CC26248BC4}" />
+					<Child Name="DBEDataEmissao" Owner="{A73F76A3-5FDC-438C-8B06-AFA965772FB7}">
+						<Child Name="TcxCustomDropDownInnerEdit" Owner="{A525A588-6231-4726-9003-D3F36AB8A296}" />
+					</Child>
+					<Child Name="edtCND" Owner="{4DF08BB4-7889-44D5-BBD7-5C51D64505B2}">
+						<Child Name="TcxCustomInnerTextEdit" Owner="{95624807-5177-4535-AD2B-DDE15A2BD4B6}" />
+					</Child>
+					<Child Name="edtAutCND" Owner="{2E17A9BF-31DE-4DF7-862C-426ADA1FC24E}">
+						<Child Name="TcxCustomInnerTextEdit" Owner="{A2B30792-E138-4081-84B7-24DEA5254D3B}" />
+					</Child>
+					<Child Name="edtValidade" Owner="{94A4B623-36CD-4DEF-B19B-3B1854E477CA}">
+						<Child Name="TcxCustomDropDownInnerEdit" Owner="{2A4001EC-E33A-4308-AD11-C89E2361701F}" />
+					</Child>
+					<Child Name="DBEIdentificacaoEstrangeiro" Owner="{51D0F8F4-2A60-49E8-82FC-F5682FCF156C}" />
+				</Child>
+				<Child Name="Panel1" Owner="{BE0AD688-6F5E-473B-8700-949AF42860C9}">
+					<Child Name="DBECelular" Owner="{CA9AB059-3D14-4763-BEFD-C6ACD4EA955F}" />
+					<Child Name="DBEEmail" Owner="{00854D32-E118-492F-8D7D-F4D0CB3F48DB}" />
+					<Child Name="DBENaturalidade" Owner="{F1323254-B7DE-4304-9A12-18BA19CF2A19}" />
+					<Child Name="DBLGrauEscolaridade" Owner="{B2574B0E-2B96-4D18-B5FE-6F0F73B1EF6F}" />
+					<Child Name="DBLProfissao" Owner="{BA003ABD-3158-4919-B931-4C69A681F53B}" />
+					<Child Name="DBERNTRC" Owner="{524E7B92-A544-4764-B6EB-1161B672DCDA}" />
+				</Child>
+				<Child Name="BTConfirmar" Owner="{06E835B0-A7A8-4BB8-8D96-2F3EFC7FC3C8}" />
+			</Child>
+			<Child Name="TPopupDataList2" Owner="{DE083259-9F40-45DC-8FA0-EDBECC5BA54A}" />
+			<Child Name="TcxDateEditPopupWindow" Owner="{A4D0DC28-BB6A-418A-9082-822182E3573C}">
+				<Child Name="TcxPopupCalendar" Owner="{09D28951-6E16-42C8-BFF5-E061500D0CE2}" />
+			</Child>
+			<Child Name="TcxDateEditPopupWindow2" Owner="{D8197DC7-BEBA-4860-90DA-1DC149E9F49E}">
+				<Child Name="TcxPopupCalendar" Owner="{A2B30E92-3CE0-405B-84DA-AF6727B05A30}" />
+			</Child>
+			<Child Name="Fm_MensagemAviso" Owner="{D7DA952B-F5FB-4A3D-AA74-DCFB01CBF305}">
+				<Child Name="PNFundo" Owner="{FC3E96B4-5AD8-478C-9190-D321C9FBE704}">
+					<Child Name="Panel1" Owner="{F363F907-3299-42C8-A511-B87D0F9823D6}">
+						<Child Name="BTOk" Owner="{AE22C44A-5AA1-476B-A9AA-00FDDEEDFD41}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="Fm_Dependencia" Owner="{19FA802D-86B8-44DA-9512-C2E1CFE074A7}">
+				<Child Name="PNFundo" Owner="{5E494D65-462E-4121-887A-6447063A5BB3}">
+					<Child Name="BTOk" Owner="{8E6D3C4A-2CC1-4E5C-B49A-6E0B65F03292}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{E426FE3E-BA04-49B0-A3E5-BFFE22BDD563}">
+			<Child Name="wndShell_TrayWnd" Owner="{A4D6EA18-9A87-4BAE-8E40-8E75B74757DD}">
+				<Child Name="DesktopWindowXamlSource" Owner="{2097C1C9-46E6-46DA-9847-33DA87876978}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

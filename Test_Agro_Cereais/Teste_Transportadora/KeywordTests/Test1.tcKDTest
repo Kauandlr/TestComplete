@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{5B7ED88E-D44F-4BB0-9849-837CF5F88588}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.ControlSoft" Data="61717A69700000000100000036040000780195934F4893611CC79FB483C75DC48B4222620721E820B840A48B5E3A78F7D065072FA343E2B2B284815138574188684C17D20E79882864318874821B3557A4904BDF777BD5D5FEBD5B6E73FFBEBDBF9FAFC5E80FED81DFC3EF7DDEE7F37D7E7F9EE7E2A5AED3824797369FD5CCA0DB297146F3B4A1FF3FFED0E70BC222AE8BBCB82550935D13DFC5796112374551DCD658B25A35AE0899988E871D707D70A1D9D60CAFEC45E3DDC6FFD3BA2AA2C4F73CEE41B69045EC308619FF0CDAEEB7C1386BC4D08BA17FEBE87C9FB30F954A055BDFB690CEA7B1F97513D3BE6958DC1618EE18FEAEA1F3BD8E5EE67D111F963E2DC1FCCA0CFB9A1DAE8F2E8CBE1E65DFF4DC84F607EDD575D2F9CE479DC8157288A8112C7F5E46269FE15C8E8A47C817F3B0796D9CCF6E721773EFE67EC5A4F30DD606E695B4826826CA7B12D904C7647E698633E084F58D95F37087DC58915650375E07A1F35443CF170FEFA73A28AA02C77B07CAE532AF851221AC47D631E99DC4767C9BD7FA9FF457F183CF0639EE702A8CF8611CC1832016838B1CBF9A539921BDBDF41EFB639EB12ABE7EBC1E7EC5CF67521FF7D3FBD838D8C07C601EA57289999DE40E0AA502FB136F27AA78CAA1D5DE0A3A9FCE39899D62A19E4829092771508E23EE91DF78D268B1B5FCEC819C92212525BE13A41B8A87D827ED81A7037FE44983DE42F76C37A6D6A6B02AAF22AC86B99FA447755C082CA0E95ED3317F43149821AE56A3F76314C3DA0B566B6687454C9C13977F00F64559AA" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_BrowseTransportador" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_BrowseTransportador.dxLayoutControl1" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_Busca" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_Busca.LayoutControl" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_Busca.LayoutControl.grdBusca" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_Transportador" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBECPFMOTORISTA" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBERNTRCMotorista" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+					<Bitmap Name="Aliases.ControlSoft.TcxComboBoxPopupWindow" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB8105760C98E23B042881542AA40A0AA94D2479A4793D8CE8319DB89824D058544937162FF9FFFB19DC39360007D05F4DCA7D8B5B1833D6AD165FBCD8B7936F8FF7D7614609B383F3DD0E3DB996FAF2FA19225643C878C6690AB0F88F01D62398158BCA198BE201F0F91BD3E207DBA473ABCF3F569A81917C7838E31BAB902BF7388D9A86BF377F6FB65FE7584763C6719CD8D2E9C920FF2423E98534C9E918D1E3D7D9925BA5FA52B93E385CEA616C3687D30C39DBFCC533DBE241F3C4E25A1CE82E7B7A1F5E4836B71F55591197DCF475B0FEBD887D6DB75F5F4220733D807D7C23E14875D57776F3CBD2C50314364C45913871859BC91E1EAEB52A2560295E6FCCCF0F45589DF31E89CD0DEB8FAA6AE506F64F4D684F697F7C6D337749A3A86A25AA4ADE59B752586ABE77F609BE8EBDB73FC97FC09DF7737F3" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_BrowseTransportador.dxLayoutControl1.BtIncluir;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="Placa" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBETRPlaca;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="87" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBETRCidadePlaca;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="cidade" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBETRCidadePlaca;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="estado" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.frmDBETRUFPlaca.DBECodigo;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="166" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBLModeloVeiculo;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="116" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="5" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.TcxComboBoxPopupWindow.TcxCustomLookupDBGrid;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="169" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="13" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBLTipoVeiculo;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="142" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="9" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.TcxComboBoxPopupWindow.TcxCustomLookupDBGrid;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="167" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="9" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlVeiculo.DBCRNTRCTransporte;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="125" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="4" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.TcxComboBoxPopupWindow.TcxEditListBoxContainer.TcxImageComboBoxListBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="20" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBECodigoEntidade;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="492" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBECodigoEntidade;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBECodigoEntidade;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="1000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="rntrc" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBERNTRCTransportadora.TcxCustomInnerTextEdit;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="1000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBECodigoEntidade;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="24" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="14" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBECodigoMotorista;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="492" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBECodigoMotorista;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="1000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.pnlTransportadora.DBECodigoMotorista;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ControlSoft.Fm_Transportador.BTConfirmar;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{20F97B78-A8F5-48E7-A658-DB03D9F05907}">
+		<Items>
+			<Variable Name="placa" Type="String" Local="False">
+				<DefValue StrValue="MAT0723" />
+			</Variable>
+			<Variable Name="cidade" Type="String" Local="False">
+				<DefValue StrValue="Chapeco" />
+			</Variable>
+			<Variable Name="estado" Type="String" Local="False">
+				<DefValue StrValue="SC" />
+			</Variable>
+			<Variable Name="nome" Type="String" Local="False">
+				<DefValue StrValue="Kauan" />
+			</Variable>
+			<Variable Name="rntrc" Type="String" Local="False">
+				<DefValue StrValue="12345678" />
+			</Variable>
+			<Variable Name="endereco" Type="String" Local="False">
+				<DefValue StrValue="Marechal" />
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{1B193D98-5231-4586-ACD5-EDE7D381D0EE}" />
+</Root>

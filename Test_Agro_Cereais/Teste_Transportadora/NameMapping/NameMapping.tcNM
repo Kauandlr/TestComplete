@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{8099C067-818C-47A7-95C5-5EE29336F30E}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="ControlSoft" Key="{C61E1CE1-5BC7-47B0-A835-462D16FD4314}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ControlSoft" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Fm_BrowseTransportador" Key="{72830951-1B56-43A1-A24D-A5F5FE681CC6}">
+								<Image FileName="1407816600" Left="0" Top="0" Right="1344" Bottom="690" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFm_BrowseTransportador" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Fm_BrowseTransportador" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="dxLayoutControl1" Key="{CC096D5F-4DEC-4E59-BBC7-E04C80A7F808}">
+										<Image FileName="1407816600" Left="3" Top="26" Right="1341" Bottom="687" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TdxLayoutControl" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="dxLayoutControl1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="BtIncluir" Key="{8623E5DD-69EA-447D-9E8C-9A229954A5AA}">
+												<Image FileName="1407816600" Left="857" Top="649" Right="947" Bottom="677" />
+												<TypeInfo Item0="{4BA8BAEF-B8B7-4644-A184-F573068AF1F7}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="BtIncluir" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Fm_Transportador" Key="{F0DDE7E1-E84A-4F89-81FB-4E48326B81DD}">
+								<Image FileName="1851278026" Left="0" Top="0" Right="1227" Bottom="599" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFm_Transportador" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Fm_Transportador" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="pnlVeiculo" Key="{A1A7969A-C84C-48EA-A18C-90C2E56658DF}">
+										<Image FileName="-2098536189" Left="16" Top="39" Right="416" Bottom="543" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="pnlVeiculo" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="DBETRPlaca" Key="{53BA3FC0-74B9-4CDA-9A46-7FA0F1CADC40}">
+												<Image FileName="-2098536189" Left="110" Top="79" Right="210" Bottom="101" />
+												<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBETRPlaca" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBETRCidadePlaca" Key="{5975FC4E-A681-47E4-A601-78EE27D87F71}">
+												<Image FileName="2103506331" Left="110" Top="111" Right="400" Bottom="133" />
+												<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBETRCidadePlaca" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="frmDBETRUFPlaca" Key="{BD5B0014-88FF-49EA-BE85-F778A550DFC2}">
+												<Image FileName="-631666539" Left="110" Top="143" Right="153" Bottom="165" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrm_BuscaCodigoDescricao" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="frmDBETRUFPlaca" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="DBECodigo" Key="{794BCA65-3043-477B-8B93-BE1F79FEFC51}">
+														<Image FileName="-631666539" Left="110" Top="143" Right="150" Bottom="165" />
+														<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TDBEdit" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="DBECodigo" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="DBERenavamTransportador" Key="{0734C11A-259D-4619-B248-79F6514BB7FC}">
+												<Image FileName="2027210018" Left="110" Top="175" Right="210" Bottom="197" />
+												<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBERenavamTransportador" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBLModeloVeiculo" Key="{66F80721-DFA4-4E34-8DD4-60A955593AE1}">
+												<Image FileName="1197312553" Left="110" Top="206" Right="285" Bottom="228" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBLookupComboBox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBLModeloVeiculo" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomComboBoxInnerEdit" Key="{9E79CC14-7995-4B61-8A42-A8462585F218}">
+														<Image FileName="1197312553" Left="113" Top="209" Right="266" Bottom="222" />
+														<TypeInfo Item0="{B86B27A7-36D1-4CF7-96FD-2B782024862C}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomComboBoxInnerEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="DBLTipoVeiculo" Key="{7E2B2BBA-4E5E-4ACC-9A27-6A2C6F0F70F8}">
+												<Image FileName="-1680938611" Left="110" Top="238" Right="285" Bottom="260" />
+												<TypeInfo Item0="{B86B27A7-36D1-4CF7-96FD-2B782024862C}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBLookupComboBox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBLTipoVeiculo" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomComboBoxInnerEdit" Key="{DDE5D4DF-02C9-410F-8595-5D8981DCBB47}">
+														<Image FileName="-1016961082" Left="113" Top="241" Right="266" Bottom="254" />
+														<TypeInfo Item0="{B86B27A7-36D1-4CF7-96FD-2B782024862C}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomComboBoxInnerEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="DBCRNTRCTransporte" Key="{19BE4B57-582F-4A6D-B4AF-EE6EB776593D}">
+												<Image FileName="991184577" Left="110" Top="463" Right="285" Bottom="487" />
+												<TypeInfo Item0="{B86B27A7-36D1-4CF7-96FD-2B782024862C}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBImageComboBox" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBCRNTRCTransporte" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="pnlTransportadora" Key="{F60B6DDC-BD83-453C-B91E-FFAC460E5082}">
+										<Image FileName="-149580355" Left="428" Top="39" Right="828" Bottom="543" />
+										<TypeInfo Item0="{B86B27A7-36D1-4CF7-96FD-2B782024862C}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="pnlTransportadora" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="DBETRNome" Key="{6EDE81F3-F2EB-4E1F-819A-418F1F21AF65}">
+												<Image FileName="-810130756" Left="575" Top="206" Right="812" Bottom="228" />
+												<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBETRNome" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBECPFMOTORISTA" Key="{BE5FDC2E-2427-4920-95F2-6A6B3A3091AC}">
+												<Image FileName="-683518339" Left="522" Top="238" Right="697" Bottom="260" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBMaskEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBECPFMOTORISTA" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomInnerTextEdit" Key="{53A7C7C1-3ADD-4024-BB9F-F425FEE4318A}">
+														<Image FileName="-683518339" Left="525" Top="241" Right="695" Bottom="254" />
+														<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomInnerTextEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="DBERNTRCMotorista" Key="{490284F7-B8C0-493B-8CB1-0E1BA6DABB32}">
+												<Image FileName="-734017674" Left="522" Top="303" Right="643" Bottom="325" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBCurrencyEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBERNTRCMotorista" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomInnerTextEdit" Key="{F13B112B-153F-45CB-A6BE-9EB7A764D0FF}">
+														<Image FileName="-734017674" Left="525" Top="306" Right="641" Bottom="319" />
+														<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomInnerTextEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="DBECodigoMotorista" Key="{655E5E4D-8CC6-442F-B29A-C18DE5317742}">
+												<Image FileName="-1980409669" Left="522" Top="206" Right="576" Bottom="228" />
+												<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBECodigoMotorista" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBECodigoEntidade" Key="{B5C00D41-6429-4007-8DFF-614E7735CA63}">
+												<Image FileName="1381753093" Left="522" Top="79" Right="576" Bottom="101" />
+												<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBECodigoEntidade" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBERNTRCTransportadora" Key="{C5F0DA61-423F-4C70-92DD-E1D7208AE4A0}">
+												<Image FileName="1213327711" Left="522" Top="111" Right="643" Bottom="133" />
+												<TypeInfo Item0="{B86B27A7-36D1-4CF7-96FD-2B782024862C}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxDBCurrencyEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBERNTRCTransportadora" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxCustomInnerTextEdit" Key="{6F6C154F-AEF9-4195-9709-4CDEE16F841C}">
+														<Image FileName="-1694508029" Left="525" Top="114" Right="641" Bottom="127" />
+														<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxCustomInnerTextEdit" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="pnlDados" Key="{60799E44-EA70-412F-AF66-3D414B9C33EA}">
+										<Image FileName="128297391" Left="834" Top="40" Right="1209" Bottom="544" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="pnlDados" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="FrmUFTranspMot" Key="{A187B7B6-5F6D-4596-88E0-410923693CB8}">
+												<Image FileName="128297391" Left="904" Top="206" Right="947" Bottom="228" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TFrm_BuscaCodigoDescricao" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="FrmUFTranspMot" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="DBECodigo" Key="{CFF0C662-2D3F-4A22-B6F9-DE5389FD298C}">
+														<Image FileName="128297391" Left="904" Top="206" Right="944" Bottom="228" />
+														<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TDBEdit" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="DBECodigo" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="DBETREndereco" Key="{0745673F-875C-4C87-9CD8-B1594C25C412}">
+												<Image FileName="1205201534" Left="904" Top="111" Right="1194" Bottom="133" />
+												<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBETREndereco" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DBETRCidade" Key="{62C502EB-8534-4134-97AF-A25CBB21E164}">
+												<Image FileName="-346633673" Left="904" Top="175" Right="1194" Bottom="197" />
+												<TypeInfo Item0="{6DCE4912-4B56-4BFE-83D1-CA69B4699EB6}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TDBEdit" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="DBETRCidade" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="BTConfirmar" Key="{4A48EB5B-3146-4E70-A08C-E618FA61F338}">
+										<Image FileName="33344145" Left="1027" Top="558" Right="1117" Bottom="586" />
+										<TypeInfo Item0="{4BA8BAEF-B8B7-4644-A184-F573068AF1F7}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TcxButton" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="BTConfirmar" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="TcxComboBoxPopupWindow" Key="{72715923-59FC-46F8-82E3-BB20A3539B93}">
+								<Image FileName="179719857" Left="0" Top="0" Right="175" Bottom="38" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TcxComboBoxPopupWindow" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="TcxCustomLookupDBGrid" Key="{1AE64032-BC98-44F6-8653-1D5E19746FAA}">
+										<Image FileName="179719857" Left="1" Top="1" Right="174" Bottom="37" />
+										<TypeInfo Item0="{B86B27A7-36D1-4CF7-96FD-2B782024862C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="TcxCustomLookupDBGrid" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="TcxEditListBoxContainer" Key="{D9EA4381-6C94-449D-8480-12801F2822A2}">
+										<Image FileName="1871351847" Left="1" Top="1" Right="174" Bottom="31" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="TcxEditListBoxContainer" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="TcxImageComboBoxListBox" Key="{7EC1B41D-DEDF-4EA7-AD50-8EFACD5FF691}">
+												<Image FileName="1871351847" Left="1" Top="1" Right="174" Bottom="31" />
+												<TypeInfo Item0="{B86B27A7-36D1-4CF7-96FD-2B782024862C}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="TcxImageComboBoxListBox" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Fm_Busca" Key="{C8DCF484-BBE2-425E-84FF-212B616F7C75}">
+								<Image FileName="-35299893" Left="0" Top="0" Right="1000" Bottom="618" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFm_Busca" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Fm_Busca" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="LayoutControl" Key="{83EDE34A-6488-4815-8087-FE9473A41413}">
+										<Image FileName="-35299893" Left="4" Top="27" Right="996" Bottom="614" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TdxLayoutControl" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="LayoutControl" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="grdBusca" Key="{55FB4B84-B51D-47C0-BBD2-408BAFBCFC45}">
+												<Image FileName="-35299893" Left="4" Top="27" Right="996" Bottom="572" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxGrid" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="grdBusca" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TcxGridSite" Key="{57D9E373-8C60-4307-B87A-5CB0991B1CFB}">
+														<Image FileName="-35299893" Left="4" Top="27" Right="996" Bottom="572" />
+														<TypeInfo Item0="{B86B27A7-36D1-4CF7-96FD-2B782024862C}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="TcxGridSite" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="BTOk" Key="{620B570C-79B1-48A5-9077-31659DE6188D}">
+												<Image FileName="-1959957673" Left="799" Top="578" Right="889" Bottom="606" />
+												<TypeInfo Item0="{4BA8BAEF-B8B7-4644-A184-F573068AF1F7}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TcxButton" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="BTOk" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Fm_MensagemAviso" Key="{4623202B-330B-4D9A-B49B-67C460CA1025}">
+								<Image FileName="390986522" Left="0" Top="0" Right="438" Bottom="229" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value Value="TFm_MensagemAviso" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Fm_MensagemAviso" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="PNFundo" Key="{C4D41B33-696D-42A3-B363-0284EFD8178C}">
+										<Image FileName="390986522" Left="3" Top="30" Right="435" Bottom="226" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value Value="TPanel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="PNFundo" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Panel1" Key="{45B884F2-B600-4F94-A584-9E54D8488716}">
+												<Image FileName="390986522" Left="3" Top="185" Right="435" Bottom="226" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TPanel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Panel1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="BTOk" Key="{B9711C8F-632C-4CE8-A275-544EA422BF45}">
+														<Image FileName="390986522" Left="166" Top="191" Right="271" Bottom="219" />
+														<TypeInfo Item0="{4BA8BAEF-B8B7-4644-A184-F573068AF1F7}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TcxButton" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="BTOk" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="ControlSoft" Owner="{C61E1CE1-5BC7-47B0-A835-462D16FD4314}">
+			<Child Name="Fm_BrowseTransportador" Owner="{72830951-1B56-43A1-A24D-A5F5FE681CC6}">
+				<Child Name="dxLayoutControl1" Owner="{CC096D5F-4DEC-4E59-BBC7-E04C80A7F808}">
+					<Child Name="BtIncluir" Owner="{8623E5DD-69EA-447D-9E8C-9A229954A5AA}" />
+				</Child>
+			</Child>
+			<Child Name="Fm_Transportador" Owner="{F0DDE7E1-E84A-4F89-81FB-4E48326B81DD}">
+				<Child Name="pnlVeiculo" Owner="{A1A7969A-C84C-48EA-A18C-90C2E56658DF}">
+					<Child Name="DBETRPlaca" Owner="{53BA3FC0-74B9-4CDA-9A46-7FA0F1CADC40}" />
+					<Child Name="DBETRCidadePlaca" Owner="{5975FC4E-A681-47E4-A601-78EE27D87F71}" />
+					<Child Name="frmDBETRUFPlaca" Owner="{BD5B0014-88FF-49EA-BE85-F778A550DFC2}">
+						<Child Name="DBECodigo" Owner="{794BCA65-3043-477B-8B93-BE1F79FEFC51}" />
+					</Child>
+					<Child Name="DBERenavamTransportador" Owner="{0734C11A-259D-4619-B248-79F6514BB7FC}" />
+					<Child Name="DBLModeloVeiculo" Owner="{66F80721-DFA4-4E34-8DD4-60A955593AE1}">
+						<Child Name="TcxCustomComboBoxInnerEdit" Owner="{9E79CC14-7995-4B61-8A42-A8462585F218}" />
+					</Child>
+					<Child Name="DBLTipoVeiculo" Owner="{7E2B2BBA-4E5E-4ACC-9A27-6A2C6F0F70F8}">
+						<Child Name="TcxCustomComboBoxInnerEdit" Owner="{DDE5D4DF-02C9-410F-8595-5D8981DCBB47}" />
+					</Child>
+					<Child Name="DBCRNTRCTransporte" Owner="{19BE4B57-582F-4A6D-B4AF-EE6EB776593D}" />
+				</Child>
+				<Child Name="pnlTransportadora" Owner="{F60B6DDC-BD83-453C-B91E-FFAC460E5082}">
+					<Child Name="DBETRNome" Owner="{6EDE81F3-F2EB-4E1F-819A-418F1F21AF65}" />
+					<Child Name="DBECPFMOTORISTA" Owner="{BE5FDC2E-2427-4920-95F2-6A6B3A3091AC}">
+						<Child Name="TcxCustomInnerTextEdit" Owner="{53A7C7C1-3ADD-4024-BB9F-F425FEE4318A}" />
+					</Child>
+					<Child Name="DBERNTRCMotorista" Owner="{490284F7-B8C0-493B-8CB1-0E1BA6DABB32}">
+						<Child Name="TcxCustomInnerTextEdit" Owner="{F13B112B-153F-45CB-A6BE-9EB7A764D0FF}" />
+					</Child>
+					<Child Name="DBECodigoMotorista" Owner="{655E5E4D-8CC6-442F-B29A-C18DE5317742}" />
+					<Child Name="DBECodigoEntidade" Owner="{B5C00D41-6429-4007-8DFF-614E7735CA63}" />
+					<Child Name="DBERNTRCTransportadora" Owner="{C5F0DA61-423F-4C70-92DD-E1D7208AE4A0}">
+						<Child Name="TcxCustomInnerTextEdit" Owner="{6F6C154F-AEF9-4195-9709-4CDEE16F841C}" />
+					</Child>
+				</Child>
+				<Child Name="pnlDados" Owner="{60799E44-EA70-412F-AF66-3D414B9C33EA}">
+					<Child Name="FrmUFTranspMot" Owner="{A187B7B6-5F6D-4596-88E0-410923693CB8}">
+						<Child Name="DBECodigo" Owner="{CFF0C662-2D3F-4A22-B6F9-DE5389FD298C}" />
+					</Child>
+					<Child Name="DBETREndereco" Owner="{0745673F-875C-4C87-9CD8-B1594C25C412}" />
+					<Child Name="DBETRCidade" Owner="{62C502EB-8534-4134-97AF-A25CBB21E164}" />
+				</Child>
+				<Child Name="BTConfirmar" Owner="{4A48EB5B-3146-4E70-A08C-E618FA61F338}" />
+			</Child>
+			<Child Name="TcxComboBoxPopupWindow" Owner="{72715923-59FC-46F8-82E3-BB20A3539B93}">
+				<Child Name="TcxCustomLookupDBGrid" Owner="{1AE64032-BC98-44F6-8653-1D5E19746FAA}" />
+				<Child Name="TcxEditListBoxContainer" Owner="{D9EA4381-6C94-449D-8480-12801F2822A2}">
+					<Child Name="TcxImageComboBoxListBox" Owner="{7EC1B41D-DEDF-4EA7-AD50-8EFACD5FF691}" />
+				</Child>
+			</Child>
+			<Child Name="Fm_Busca" Owner="{C8DCF484-BBE2-425E-84FF-212B616F7C75}">
+				<Child Name="LayoutControl" Owner="{83EDE34A-6488-4815-8087-FE9473A41413}">
+					<Child Name="grdBusca" Owner="{55FB4B84-B51D-47C0-BBD2-408BAFBCFC45}">
+						<Child Name="TcxGridSite" Owner="{57D9E373-8C60-4307-B87A-5CB0991B1CFB}" />
+					</Child>
+					<Child Name="BTOk" Owner="{620B570C-79B1-48A5-9077-31659DE6188D}" />
+				</Child>
+			</Child>
+			<Child Name="Fm_MensagemAviso" Owner="{4623202B-330B-4D9A-B49B-67C460CA1025}">
+				<Child Name="PNFundo" Owner="{C4D41B33-696D-42A3-B363-0284EFD8178C}">
+					<Child Name="Panel1" Owner="{45B884F2-B600-4F94-A584-9E54D8488716}">
+						<Child Name="BTOk" Owner="{B9711C8F-632C-4CE8-A275-544EA422BF45}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

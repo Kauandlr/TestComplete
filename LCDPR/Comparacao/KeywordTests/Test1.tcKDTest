@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{D10420C2-A314-4871-B976-74855AF0F13A}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{2ED75FE4-AD05-4ACF-8520-241758DB1F7A}">
+				<Data Description="Returns True if the file stored in the Files collection under the specified name and another file are absolutely identical. Otherwise, it returns False.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="File1" DefVarType="8" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Users\Usuario\Desktop\utf-8 comparacao.txt" />
+						<Parameter Name="File2" DefVarType="8" ParamType="{A6C17AFB-EA54-4E23-8160-6C3EF6C97F0F}" FileName="C:\Users\Usuario\Desktop\2022R007_03033447171.txt" />
+						<Parameter Name="HashValue" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="ReportDifference" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="MessageType" DefVarType="12" DefValueType="1" DefValueValue="2" VarType="3" ValueType="1" ValueValue="2" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{6845D9D2-016B-4279-AF03-D996D4426E3D}" />
+</Root>
